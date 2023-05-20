@@ -1,6 +1,6 @@
 # business-card
 
-site url - http://vaishnavghenge.me/business-card/
+site url - http://vaishnavghenge.github.io/business-card/
 
 screenshot
 
